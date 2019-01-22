@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.activiti.cloud</groupId>
-	<artifactId>REPLACE_ME_APP_NAME</artifactId>
+	<artifactId>hello-activiti-runtime-bundle1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>REPLACE_ME_APP_NAME</name>
-	<description>Activiti Cloud :: Runtime Bundle (REPLACE_ME_APP_NAME)</description>
+	<name>hello-activiti-runtime-bundle1</name>
+	<description>Activiti Cloud :: Runtime Bundle (hello-activiti-runtime-bundle1)</description>
 
 
 	<properties>
