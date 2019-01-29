@@ -30,8 +30,8 @@ javaOpts:
   xms: 512m
   other: -XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap -Dsun.zip.disableMemoryMapping=true -XX:+UseParallelGC -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90
 image:
-  repository: draft
-  tag: dev
+  repository: 827620312859.dkr.ecr.us-west-2.amazonaws.com/doug4j/hello-activiti-runtime-bundle1
+  tag: 0.0.3
   pullPolicy: IfNotPresent
 service:
   name: hello-activiti-runtime-bundle1
